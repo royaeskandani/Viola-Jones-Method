@@ -1,0 +1,8 @@
+.DS_Store
+build/*
+
+# Executable Programs
+calculate_cascade
+calculate_dataset
+calculate_strong_classifier
+evaluate_dataset
